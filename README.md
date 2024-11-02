@@ -1,6 +1,6 @@
 To clone this repo use `git clone https://github.com/KshitijKardle/MERN-bookstore.git`
 
-run `cd backend`
+run `cd backend` 
 install node modules  `npm i`
 Start server using `npm run dev`
 
